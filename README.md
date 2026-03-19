@@ -17,8 +17,8 @@ ___
     a. STAIR Array STLs - design files for 3D printing the STAIR array    
     b. Hardware BOM - bill of materials for building the STAIR array    
     c. Raspberry Pi setup - documentation for setting up Raspberry Pis for ambisonic recording & playback
-  3. Misc. files
-    a. STAIR recordings
+  3. Misc. files<br>
+    a. STAIR recordings<br>
     b. Visual media (graphics, photos, and videos documenting the project)
 
 The principal portion of this project is in the software. The harware is not necessary for running the software of this project. The hardware (or something like it) is only necessary for capturing STAIRs.
