@@ -1,4 +1,4 @@
-# acoustigrammetry
+# Acoustigrammetry
 A project for creating navigable virtual acoustic models using novel techniques of acoustigrammetry.
 
 ___
