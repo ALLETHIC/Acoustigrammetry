@@ -57,7 +57,7 @@ The STAIRProcessor carries out the following functions:
   4. Then it decodes the results for stereo (with optional binauralization), quad, 7.1.4, or raw ambisonics.
 ___
 
-For a more detailed and comprehensive documentation of this projection, lookout for my forthcoming thesis, <i>Convolving the Convoluted: The Long & Winding Road to Acoustigrammetry</i>, to be published May 8 2026.
+For a more detailed and comprehensive documentation of this project, lookout for my forthcoming thesis, <i>Convolving the Convoluted: The Long & Winding Road to Acoustigrammetry</i>, to be published May 8 2026.
 
 ___
 
