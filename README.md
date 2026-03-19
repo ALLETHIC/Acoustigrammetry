@@ -13,10 +13,13 @@ ___
     a. STAIRcpp - Unreal template project<br>
     b. sharedmem~ - Max external    
     c. STAIRProcessor - Max patch    
-  3. Hardware  
+  2. Hardware  
     a. STAIR Array STLs - design files for 3D printing the STAIR array    
     b. Hardware BOM - bill of materials for building the STAIR array    
     c. Raspberry Pi setup - documentation for setting up Raspberry Pis for ambisonic recording & playback
+  3. Misc. files
+    a. STAIR recordings
+    b. Visual media (graphics, photos, and videos documenting the project)
 
 The principal portion of this project is in the software. The harware is not necessary for running the software of this project. The hardware (or something like it) is only necessary for capturing STAIRs.
 
@@ -32,7 +35,7 @@ ___
 6. If desired, binauralization can be enabled on stereo output
 ___
 
-About the Unreal template project:
+<b>About the Unreal template project:</b>
 
 The Unreal template project contains all the contructs necessary for working with STAIRs in an Unreal project. Here is a breakdown of the essential constructs included:
 1. <i>A first-person character with a ListenersSphere and an SFLSphere.</i> The ListenersSphere is parent two 16 unit spheres corresponding to the 16 channels of 3rd-order A-format ambisonics. The ListnersSphere fully tracks the movement of the first-person character. The SFLSphere is similar to the ListenersSphere but differs in 2 important ways. 1) It only tracks the translational movement of the first-person character. 2) Each unit sphere is parent to a special Metasound patch known as the Spectral Frame Looper. This loops a spectral frame of the a STAIR channel depending on the first-person character's distance along a spline.
@@ -41,7 +44,7 @@ The Unreal template project contains all the contructs necessary for working wit
 
 ___
 
-About the STAIRProcessor:
+<b>About the STAIRProcessor:</b>
 
 ___
 
