@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SyntheticSTAIR",
+			"Path": "..\\Source\\SyntheticSTAIR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SyntheticSTAIREditor",
+			"Path": "..\\Source\\SyntheticSTAIREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SyntheticSTAIR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Justin/Desktop/SyntheticSTAIR/Intermediate/Build/Win64/x64/SyntheticSTAIREditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/Justin/Desktop/SyntheticSTAIR/Intermediate/Build/Win64/x64/UnrealEditor/Development/SyntheticSTAIR/Module.SyntheticSTAIR.gen.cpp.obj"
+"C:/Users/Justin/Desktop/SyntheticSTAIR/Intermediate/Build/Win64/x64/UnrealEditor/Development/SyntheticSTAIR/SyntheticSTAIR.cpp.obj"
+"C:/Users/Justin/Desktop/SyntheticSTAIR/Intermediate/Build/Win64/x64/UnrealEditor/Development/SyntheticSTAIR/TempClass.cpp.obj"
+"C:/Users/Justin/Desktop/SyntheticSTAIR/Intermediate/Build/Win64/x64/UnrealEditor/Development/SyntheticSTAIR/NewTempClass.cpp.obj"
+"C:/Users/Justin/Desktop/SyntheticSTAIR/Intermediate/Build/Win64/x64/UnrealEditor/Development/SyntheticSTAIR/SubmixEffectSharedMemory.cpp.obj"
+"C:/Users/Justin/Desktop/SyntheticSTAIR/Intermediate/Build/Win64/x64/UnrealEditor/Development/SyntheticSTAIR/PerModuleInline.gen.cpp.obj"
+"C:/Users/Justin/Desktop/SyntheticSTAIR/Intermediate/Build/Win64/x64/UnrealEditor/Development/SyntheticSTAIR/Default.rc2.res"
+/OUT:"C:/Users/Justin/Desktop/SyntheticSTAIR/Intermediate/Build/Win64/x64/UnrealEditor/Development/SyntheticSTAIR/UnrealEditor-SyntheticSTAIR.lib"
