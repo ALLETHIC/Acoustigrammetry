@@ -59,6 +59,8 @@
 						"valueof" : 						{
 							"parameter_annotation_name" : "In / Out",
 							"parameter_enum" : [ "In", "Out" ],
+							"parameter_initial" : [ 0 ],
+							"parameter_initial_enable" : 1,
 							"parameter_linknames" : 1,
 							"parameter_longname" : "In / Out[1]",
 							"parameter_mmax" : 1,
@@ -136,7 +138,7 @@
 						"valueof" : 						{
 							"parameter_annotation_name" : "Halo",
 							"parameter_enum" : [ "1/128", "1/64", "1/32T", "1/64D", "1/32", "1/16T", "1/32D", "1/16", "1/8T", "1/16D", "1/8", "1/4T", "1/8D", "1/4", "1/2T", "1/4D", "1/2", "1/1T", "1/2D", "1/1" ],
-							"parameter_initial" : [ 0.9 ],
+							"parameter_initial" : [ 0.5 ],
 							"parameter_initial_enable" : 1,
 							"parameter_linknames" : 1,
 							"parameter_longname" : "Halo[1]",
@@ -183,7 +185,7 @@
 							"parameter_annotation_name" : "Frequency 2",
 							"parameter_enum" : [ "1/128", "1/64", "1/32T", "1/64D", "1/32", "1/16T", "1/32D", "1/16", "1/8T", "1/16D", "1/8", "1/4T", "1/8D", "1/4", "1/2T", "1/4D", "1/2", "1/1T", "1/2D", "1/1" ],
 							"parameter_exponent" : 2.0,
-							"parameter_initial" : [ 10000.000656000000163 ],
+							"parameter_initial" : [ 20000 ],
 							"parameter_initial_enable" : 1,
 							"parameter_linknames" : 1,
 							"parameter_longname" : "Frequency 2[1]",
@@ -218,7 +220,7 @@
 							"parameter_annotation_name" : "Frequency 1",
 							"parameter_enum" : [ "1/128", "1/64", "1/32T", "1/64D", "1/32", "1/16T", "1/32D", "1/16", "1/8T", "1/16D", "1/8", "1/4T", "1/8D", "1/4", "1/2T", "1/4D", "1/2", "1/1T", "1/2D", "1/1" ],
 							"parameter_exponent" : 2.0,
-							"parameter_initial" : [ 49.999999000000003 ],
+							"parameter_initial" : [ 50 ],
 							"parameter_initial_enable" : 1,
 							"parameter_linknames" : 1,
 							"parameter_longname" : "Frequency 1[1]",
@@ -19280,7 +19282,7 @@
 		"dependency_cache" : [ 			{
 				"name" : "SloperConvolver.maxpat",
 				"bootpath" : "~/Documents/Max 8/Library",
-				"patcherrelativepath" : ".",
+				"patcherrelativepath" : "../../../Documents/Max 8/Library",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -19291,7 +19293,7 @@
 , 			{
 				"name" : "vs.minmax.maxpat",
 				"bootpath" : "~/Documents/Max 8/Library",
-				"patcherrelativepath" : ".",
+				"patcherrelativepath" : "../../../Documents/Max 8/Library",
 				"type" : "JSON",
 				"implicit" : 1
 			}
