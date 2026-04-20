@@ -1,0 +1,21 @@
+2026/04/18-01:09:58.705 3b08 Reusing MANIFEST C:\Users\Justin\Desktop\Acoustigrammetry\Unreal demo projects\WaysSTAIRcpp\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/18-01:09:58.737 3b08 Recovering log #85
+2026/04/18-01:09:58.740 3b08 Reusing old log C:\Users\Justin\Desktop\Acoustigrammetry\Unreal demo projects\WaysSTAIRcpp\Saved\webcache_6613_2\Default\Local Storage\leveldb/000085.log 
+2026/04/18-17:32:31.982 95fc Level-0 table #89: started
+2026/04/18-17:32:32.001 95fc Level-0 table #89: 77117 bytes OK
+2026/04/18-17:32:32.004 95fc Delete type=0 #85
+2026/04/18-17:34:31.969 95fc Level-0 table #91: started
+2026/04/18-17:34:31.976 95fc Level-0 table #91: 67531 bytes OK
+2026/04/18-17:34:31.978 95fc Delete type=0 #88
+2026/04/18-17:35:50.985 95fc Level-0 table #93: started
+2026/04/18-17:35:50.990 95fc Level-0 table #93: 66463 bytes OK
+2026/04/18-17:35:50.992 95fc Delete type=0 #90
+2026/04/18-17:35:50.998 95fc Compacting 4@0 + 1@1 files
+2026/04/18-17:35:51.004 95fc Generated table #94@0: 11 keys, 41571 bytes
+2026/04/18-17:35:51.004 95fc Compacted 4@0 + 1@1 files => 41571 bytes
+2026/04/18-17:35:51.005 95fc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/18-17:35:51.006 95fc Delete type=2 #84
+2026/04/18-17:35:51.006 95fc Delete type=2 #86
+2026/04/18-17:35:51.006 95fc Delete type=2 #89
+2026/04/18-17:35:51.006 95fc Delete type=2 #91
+2026/04/18-17:35:51.006 95fc Delete type=2 #93
