@@ -1,9 +1,0 @@
-Breadcrumbs 'Parallel'
- - NoOcclusionPass
- - Nanite::DrawGeometry
- - Nanite::RasterizeLumenCards
- - LumenSceneUpdate: 11 card captures 0.016M texels
- - Scene
- - RenderGraphExecute - /ViewFamilies
- - SceneRender - ViewFamilies
- - Frame 619543
