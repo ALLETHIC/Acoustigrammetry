@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\justin\\desktop\\acoustigrammetry\\unreal demo projects\\syntheticstair\\source\\syntheticstair\\private\\newtempclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\justin\\desktop\\acoustigrammetry\\unreal demo projects\\syntheticstair\\intermediate\\build\\win64\\x64\\syntheticstair\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "c:\\users\\justin\\desktop\\acoustigrammetry\\unreal demo projects\\syntheticstair\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\syntheticstair\\definitions.syntheticstair.h",
+            "c:\\users\\justin\\desktop\\acoustigrammetry\\unreal demo projects\\syntheticstair\\source\\syntheticstair\\public\\newtempclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

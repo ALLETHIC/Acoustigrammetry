@@ -1,0 +1,7 @@
+Breadcrumbs 'Parallel'
+ - CopyCardsToSurfaceCache
+ - LumenSceneUpdate: 2 card captures 0.031M texels
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 44
