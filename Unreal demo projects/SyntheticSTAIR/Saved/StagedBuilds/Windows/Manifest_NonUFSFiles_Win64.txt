@@ -1,7 +1,7 @@
 SyntheticSTAIR/Binaries/Win64/D3D12/x64/D3D12Core.dll	2025-12-05T00:58:02.687Z
 SyntheticSTAIR/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll	2025-12-05T00:58:02.729Z
 SyntheticSTAIR/Binaries/Win64/DML/x64/DirectML.dll	2025-12-05T00:57:51.377Z
-SyntheticSTAIR/Binaries/Win64/SyntheticSTAIR-Win64-Shipping.exe	2026-04-21T09:07:35.654Z
+SyntheticSTAIR/Binaries/Win64/SyntheticSTAIR-Win64-Shipping.exe	2026-04-30T19:48:12.424Z
 SyntheticSTAIR/Binaries/Win64/tbb12.dll	2025-12-05T00:57:55.505Z
 SyntheticSTAIR/Binaries/Win64/tbbmalloc.dll	2025-12-05T00:57:55.505Z
 Engine/Extras/Redist/en-us/vc_redist.x64.exe	2025-12-05T00:53:31.287Z
@@ -73,5 +73,5 @@ Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2025-12-05T
 Engine/Content/Renderer/TessellationTable.bin	2025-12-05T00:52:13.120Z
 Engine/Content/Slate/Cursor/invisible.cur	2025-12-05T00:52:13.134Z
 Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll	2025-12-05T00:56:36.234Z
-Engine/Config/StagedBuild_SyntheticSTAIR.ini	2026-04-21T09:14:59.354Z
-SyntheticSTAIR.exe	2026-04-21T09:14:59.342Z
+Engine/Config/StagedBuild_SyntheticSTAIR.ini	2026-04-30T20:01:39.340Z
+SyntheticSTAIR.exe	2026-04-30T20:01:39.323Z

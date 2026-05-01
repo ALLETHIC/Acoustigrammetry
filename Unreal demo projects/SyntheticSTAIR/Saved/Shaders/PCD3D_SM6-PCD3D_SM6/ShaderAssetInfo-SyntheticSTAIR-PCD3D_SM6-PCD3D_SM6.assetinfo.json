@@ -100,7 +100,7 @@
 		{
 			"ShaderMapHash": "A4409528C1DD1958EFB6C940D470AE38506633EE",
 			"Assets": [
-				"/Game/Fab/Retro_Radio___BoomBox/retro_radio/Materials/Retro_Radio_Body"
+				"/Game/Fab/Parrot_Camo_drone/parrot_camo_drone/Materials/camo"
 			]
 		},
 		{
@@ -340,7 +340,7 @@
 		{
 			"ShaderMapHash": "C3BE5B799384E9DED2306EB7F6F7875F7799F7CA",
 			"Assets": [
-				"/Game/Fab/Realistic_tree/realistic_tree/Materials/MT_PM_V60_Alnus_cremastogyne_01_Trunk_01_010"
+				"/Game/Fab/Realistic_tree/realistic_tree/Materials/MT_PM_V60_Alnus_cremastogyne_01_Petiole_01_010"
 			]
 		},
 		{
@@ -371,27 +371,18 @@
 			"ShaderMapHash": "898D9A8C5F0932E111D9FDAE842B9C3869D56D34",
 			"Assets": [
 				"/Game/SyntheticSTAIRLevel/_Generated_/0299DE0DJI7YEOC5WOB652ATT",
-				"/Game/SyntheticSTAIRLevel/_Generated_/0AMZQGGCDV19YZWQ7BZR1FT17",
 				"/Game/SyntheticSTAIRLevel/_Generated_/0D45811PI5QECW217SCKPX7UL",
 				"/Game/SyntheticSTAIRLevel/_Generated_/0EVHZKWD0357H1ZROEHLMT7TG",
-				"/Game/SyntheticSTAIRLevel/_Generated_/19UON3YKW3SWYKOMC99OD2IR0",
-				"/Game/SyntheticSTAIRLevel/_Generated_/1SJNELZX3FWPUMKTKCGW7RZOI",
 				"/Game/SyntheticSTAIRLevel/_Generated_/1ZH5PH1WTEIVUHMRNG68FB05Z",
-				"/Game/SyntheticSTAIRLevel/_Generated_/2UMVDG9LZHMB86S276ZXFJ7GQ",
 				"/Game/SyntheticSTAIRLevel/_Generated_/2USQ69GHGXOIYVSCLVCQ2BW5J",
 				"/Game/SyntheticSTAIRLevel/_Generated_/31TIG6Q3J7PQ8ARLQRMX2VFJR",
 				"/Game/SyntheticSTAIRLevel/_Generated_/35B64X69257MUD86ZWFX54FGK",
 				"/Game/SyntheticSTAIRLevel/_Generated_/36PVEAQN50KL4ND6HM2RYC9O1",
 				"/Game/SyntheticSTAIRLevel/_Generated_/38BPYBBQ5ARTNE843EYF94AD1",
-				"/Game/SyntheticSTAIRLevel/_Generated_/38Z3SL8FFNBDA2INNJACACM9H",
 				"/Game/SyntheticSTAIRLevel/_Generated_/47U7RK2CZS955FALKYDRAIZG4",
-				"/Game/SyntheticSTAIRLevel/_Generated_/4GIK18092L6YY615IDPMV7DKV",
-				"/Game/SyntheticSTAIRLevel/_Generated_/4I43U0BZ3YBAJ5ZX5WIQP3V0E",
 				"/Game/SyntheticSTAIRLevel/_Generated_/4Q948YUHGNXNNQ4LTC0TTFRPW",
 				"/Game/SyntheticSTAIRLevel/_Generated_/51JWSEYZF6BVHDF50O482G0RO",
 				"/Game/SyntheticSTAIRLevel/_Generated_/5BOWYBSFPZG92UWXLX88NRLXV",
-				"/Game/SyntheticSTAIRLevel/_Generated_/5DLKU6XP7J52C6XQJQ6DQ80LK",
-				"/Game/SyntheticSTAIRLevel/_Generated_/5K6K08LN7V7SZNFQ1T3V3KU9C",
 				"/Game/SyntheticSTAIRLevel/_Generated_/6DKGCQVTAAUUZNPRVL4M0R0LE",
 				"/Game/SyntheticSTAIRLevel/_Generated_/6LQ6Q7BRYQP45X27YXYBFKEPA",
 				"/Game/SyntheticSTAIRLevel/_Generated_/6MUHOITZ070I2L3ZTB8PLFCSU",
@@ -399,36 +390,25 @@
 				"/Game/SyntheticSTAIRLevel/_Generated_/7B025Y545E4KMCTU9WDSJX0XX",
 				"/Game/SyntheticSTAIRLevel/_Generated_/7GYNCDAN4VIZY47OVR8R9T6PQ",
 				"/Game/SyntheticSTAIRLevel/_Generated_/7JIAOHBTW0Y0VL20CMWG91E86",
-				"/Game/SyntheticSTAIRLevel/_Generated_/7MNQESCVUIW334QOIENMLI3KD",
 				"/Game/SyntheticSTAIRLevel/_Generated_/7MPLFUNDAT0A224Z2WE7AGCDW",
-				"/Game/SyntheticSTAIRLevel/_Generated_/7UIMLVTL5PP8QPP3SBTUF8IWV",
 				"/Game/SyntheticSTAIRLevel/_Generated_/8CZGYCSTDBV6A604PK2980W65",
 				"/Game/SyntheticSTAIRLevel/_Generated_/8D3YGVHUUV3C1SNJV38NZOC9Q",
 				"/Game/SyntheticSTAIRLevel/_Generated_/91H298M2AUU0NELC0EA4GQH1V",
-				"/Game/SyntheticSTAIRLevel/_Generated_/99P903C6TJO5LID8JX317CKL8",
 				"/Game/SyntheticSTAIRLevel/_Generated_/9BKZ9ZB84UQJHW0XQIMG693B8",
 				"/Game/SyntheticSTAIRLevel/_Generated_/9C8691KEPUK54AXKTZ7ZX2696",
 				"/Game/SyntheticSTAIRLevel/_Generated_/9XBPRXUUZCJTUH58UX58RMP3Q",
-				"/Game/SyntheticSTAIRLevel/_Generated_/A36KPL5808OEG5G91DSYJ010Z",
 				"/Game/SyntheticSTAIRLevel/_Generated_/AEFV6D0MM2VY5P5M1ZSULWZ22",
-				"/Game/SyntheticSTAIRLevel/_Generated_/AJPABGS929Y610CFNUOYXLRVX",
-				"/Game/SyntheticSTAIRLevel/_Generated_/AOILOHJKOW36GJF1QMO80US29",
-				"/Game/SyntheticSTAIRLevel/_Generated_/ARG4IV4XQENKFB27YHT65N1W7",
-				"/Game/SyntheticSTAIRLevel/_Generated_/AYBD14SYZI2HI8W3MIKCW5Y32",
-				"/Game/SyntheticSTAIRLevel/_Generated_/B3VV3BHCW4HTLJYARTR60C623",
 				"/Game/SyntheticSTAIRLevel/_Generated_/BJ1CV7VY3PN0GA504CAQUM9C0",
 				"/Game/SyntheticSTAIRLevel/_Generated_/C0ZL3J1S2K3X87FVZYQJRK85K",
 				"/Game/SyntheticSTAIRLevel/_Generated_/CA28CR1SU2U93HAJOYVXDGQD2",
 				"/Game/SyntheticSTAIRLevel/_Generated_/CO2ABRYKSML17K1K3VLDAWHR9",
 				"/Game/SyntheticSTAIRLevel/_Generated_/COEC3XMNXLUVG3VOGWT0RPELS",
-				"/Game/SyntheticSTAIRLevel/_Generated_/CPG9MH74CKPK7OYXVG09DP5XP",
 				"/Game/SyntheticSTAIRLevel/_Generated_/CQEHCAVM1Z5C02JNXNTIVVZA7",
 				"/Game/SyntheticSTAIRLevel/_Generated_/CVJO221764FAO1105NLWYXLJQ",
 				"/Game/SyntheticSTAIRLevel/_Generated_/D08BUEGFBDN0FJLQMYVIR4EC7",
 				"/Game/SyntheticSTAIRLevel/_Generated_/DFB2G2E7PWRZ5FS5SEFYKFRDM",
 				"/Game/SyntheticSTAIRLevel/_Generated_/DH3OG5NYJPS491A2851U2P5N4",
 				"/Game/SyntheticSTAIRLevel/_Generated_/DKQRKM0WK5W7LS68D6F48907C",
-				"/Game/SyntheticSTAIRLevel/_Generated_/DKZXMN6B7V4D7K69MJJYV2HQH",
 				"/Game/SyntheticSTAIRLevel/_Generated_/DRX6FVZBUKNRCL1WI805PD22R",
 				"/Game/SyntheticSTAIRLevel/_Generated_/EDLZGP7K3SYPED14NOGJZOQT7",
 				"/Game/SyntheticSTAIRLevel/_Generated_/ETY9ZGA3WRW50Y91LU05G14MW",
@@ -541,7 +521,7 @@
 		{
 			"ShaderMapHash": "13F353AF9B7EEF89C4CA7062E1E5263D901875A3",
 			"Assets": [
-				"/Game/Fab/Parrot_Camo_drone/parrot_camo_drone/Materials/255255255_007"
+				"/Game/Fab/Parrot_Camo_drone/parrot_camo_drone/Materials/cam1"
 			]
 		},
 		{
