@@ -1,3 +1,6 @@
-2026/04/21-03:23:06.112 3654 Reusing MANIFEST C:\Users\Justin\Desktop\Acoustigrammetry\Unreal demo projects\WaysSTAIRcpp\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/21-03:23:06.122 3654 Recovering log #100
-2026/04/21-03:23:06.123 3654 Reusing old log C:\Users\Justin\Desktop\Acoustigrammetry\Unreal demo projects\WaysSTAIRcpp\Saved\webcache_6613_2\Default\Local Storage\leveldb/000100.log 
+2026/05/08-15:28:28.925 7e04 Reusing MANIFEST C:\Users\Justin\Desktop\Acoustigrammetry\Unreal demo projects\WaysSTAIRcpp\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/08-15:28:28.930 7e04 Recovering log #100
+2026/05/08-15:28:28.932 7e04 Reusing old log C:\Users\Justin\Desktop\Acoustigrammetry\Unreal demo projects\WaysSTAIRcpp\Saved\webcache_6613_2\Default\Local Storage\leveldb/000100.log 
+2026/05/08-16:09:08.766 5a18 Level-0 table #103: started
+2026/05/08-16:09:08.770 5a18 Level-0 table #103: 70879 bytes OK
+2026/05/08-16:09:08.772 5a18 Delete type=0 #100

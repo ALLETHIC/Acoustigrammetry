@@ -632,6 +632,7 @@
 		{
 			"ShaderMapHash": "E0CBFDDD960CA620CB40BB24B4862E2EF2112DE4",
 			"Assets": [
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
 				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
 			]
 		},
@@ -652,24 +653,35 @@
 			"Assets": [
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/052SNEM135L6E9X4690AA8E19",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/1H9921U3LOGXVIMBZE6MHM8Q7",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/1J5CWFT80518PFD3EKALFQIT0",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/1L7OG06ZZARNPHECQH7C4WWPY",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/1PH5BNCQROTL2Y144LLWH2RQ0",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/2HTBOSJEQ63IUCC1JDRKU1CC8",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/2TD4IBSE33M0QG4X5R097BJT9",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/3LJANWJ3QH29KEZLQYJ40HILQ",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/3ZYK2E3V239ES81G78FXFNUDK",
-				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/4097PDKIMQJLXSKAQK0NQQ45S",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/4112HFH4TC04MONAJAH77QLVL",
-				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/43YZKG3MLCUK29DWVB6EZVP5T",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/48TWPVY8EIFQSFD66RC9I1120",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/4HGXLKV5F5M2FLLUQ2EYMVP93",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/4UK07S80YPAXJXX0MFKOOQKAA",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/5IFI2BELH5M2ZR4AX69ARHUZS",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/5M03PAYOI89XO1II1IF3Y79BL",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/5P2VVYP2GUNW4U7OHONSK2BDO",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/65ORN8REOPK9UU6QEZTGJLNHB",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/6IQPGNH22FKY6BBS7L6BBHVMD",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/6K20264XULKVKHSYYS9PXQH2X",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/6NVP7BC85UF61THFPV2NWC4SF",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/77SKIENKRA4NUN2U1XLO2TK9U",
-				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/9C6OCDN3OCTAQT1X7YERXKLR2",
-				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/9N445CUY6C9NPV7CYZOOR271K",
-				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/9NPYID9WN98E6VC6PCDQH5MIT",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/853U9WQ1UHCUPZZ7TJW15E443",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/A5W1OHBHH29JIT2OT67082UDI",
-				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/CLTNZ3AIYFMHC0KCQUCWXGB1M",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/ACOH2ST0HEG9A3JHFZ6S84AOM",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/BR7LC4OLR8NTKRR7AM0NWYSCH",
 				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/CMI28RF9UVD0TWDJZLR7D1UK6",
-				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/DG58ZNQ2RB6F8AFF8QSKYTSQI"
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/DG58ZNQ2RB6F8AFF8QSKYTSQI",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/DZQ242HOYHU76YBKSKDC2UR9W",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/E5STE1OJYYHJ1BFVNILU2LE6G",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/E6JE7QIEMFRWS8U5QUOSYJWZQ",
+				"/Game/WaysSTAIRcppDefaultLevel/_Generated_/E9YKZ7S9KVIQ0X722B23PHR8F"
 			]
 		},
 		{

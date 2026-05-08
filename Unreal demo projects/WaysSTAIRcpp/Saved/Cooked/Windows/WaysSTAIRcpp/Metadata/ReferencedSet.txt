@@ -372,7 +372,7 @@
 /game/firstperson/anims/abp_fp_copy
 /game/firstperson/anims/ctrlrig_fpwarp
 /game/firstperson/blueprints/bp_firstpersoncameramanager
-/game/firstperson/blueprints/bp_firstpersoncharacter_30aspheres
+/game/firstperson/blueprints/bp_firstpersoncharacter_30aspheres_old
 /game/firstperson/blueprints/bp_firstpersongamemode
 /game/firstperson/blueprints/bp_firstpersonplayercontroller
 /game/input/actions/ia_jump
@@ -593,6 +593,11 @@
 /game/testrecordings/soundsused/753275__heckfricker__ac-unit-interior-exhaust-close-perspective-02
 /game/testrecordings/soundsused/757835__phinster__5-52-pm-electric-sax
 /game/testrecordings/soundsused/762881__klankbeeld__2-meter-radio-amateurs-from-flanders-belgium-241031-204208
+/game/unityfootsteps/footsteps_tile/footsteps_tile_walk/footsteps_tile_walk_01
+/game/unityfootsteps/footsteps_tile/footsteps_tile_walk/footsteps_tile_walk_02
+/game/unityfootsteps/footsteps_tile/footsteps_tile_walk/footsteps_tile_walk_03
+/game/unityfootsteps/footsteps_tile/footsteps_tile_walk/footsteps_tile_walk_04
+/game/unityfootsteps/footsteps_tile/footsteps_tile_walk/footstepstile
 /game/utopiancity/blueprints/bp_lampon
 /game/utopiancity/blueprints/bp_stairs2floors
 /game/utopiancity/materials/m_brut
